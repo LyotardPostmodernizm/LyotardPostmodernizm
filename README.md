@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mehmet Onur Aysel and I'm a passionate Junior Java Backend developer from Turkey</p>
+<p align="left">My name is Mehmet Onur Aysel and I'm a passionate Full-Stack web developer with Java - Spring and React.js, Next.js from Turkey</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Java Spring Framework and backend web development.<br>🎯 Goals: Become a senior Java Backend developer</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 Lately, I've been improving my skills in Java - Spring Framework, React.js and Next.js<br>🎯 Goals: To become an expert in full-stack web development</p>
 
 ###
 
